@@ -75,6 +75,6 @@ cd TuneFlow
 
 ## 👩‍💻 Author
 
-**Varshita**
+**Varshita Neyyila**
 
 
