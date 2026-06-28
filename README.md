@@ -4,7 +4,7 @@ A responsive web-based music player built using HTML, CSS, and JavaScript. TuneF
 
 ## 🚀 Live Demo
 
-🔗 https://harmonious-selkie-eb112a.netlify.app/
+🔗 https://tuneflow-music.netlify.app/
 ## ✨ Features
 
 * Play and pause songs
